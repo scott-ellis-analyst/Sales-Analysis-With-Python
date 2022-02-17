@@ -41,7 +41,7 @@
 ## Repo Contents:
 ### - Folder 01: Project Management
 #### Project Brief
-### - Folder 02: Data
+### - Folder 02: Data (Not including due to large file sizes)
 #### Original and Prepared Data files
 ### - Folder 03: Scripts
 #### Jupyter notebook files containing Python scripts for each phase of the project
